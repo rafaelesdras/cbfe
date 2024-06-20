@@ -4,5 +4,5 @@ import br.com.cbfe.domain.model.Guia;
 
 public interface Observer {
 
-	void update(Guia gui);
+	void update(Guia guia);
 }
